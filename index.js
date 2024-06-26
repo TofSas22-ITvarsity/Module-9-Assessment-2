@@ -14,7 +14,9 @@ let cities = [
     { name: "Rio De Janeiro", utcOffset: -3, flag: "Brazil.png" },
     { name: "Sydney", utcOffset: 11, flag: "Australia.png" },
     { name: "Vancouver", utcOffset: -8, flag: "Canada.png" },
-    { name: "Beijing", utcOffset: 8, flag: "China.png" }
+    { name: "Beijing", utcOffset: 8, flag: "China.png" },
+    { name: "Monaco", utcOffset: 2, flag: "Monaco.png" },
+    { name: "Samoa", utcOffset: 13, flag: "Samoa.png" },
 ];
 
 cities.sort(compare);
